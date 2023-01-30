@@ -192,6 +192,7 @@ cython_debug/
 # Ignore data files
 *.csv
 *.csv.gz
+*.parquet
 
 week_1/1_terraform/ny_taxi_postgres_data
 week_1/1_terraform/pgadmin_data
