@@ -1,9 +1,9 @@
 ###
 ### A complete description of a Prefect Deployment for flow 'etl-web-to-gcs'
 ###
-name: Homework ETL
+name: Week 2 Q5 ETL
 description: The main etl function
-version: 49750ff503a2576335229ff3d9ade263
+version: 219945019951dfddb4859e6e3cf4dd79
 # The work queue that will handle this deployment's runs
 work_queue_name: default
 tags: []
