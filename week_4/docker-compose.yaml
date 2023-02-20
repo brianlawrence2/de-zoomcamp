@@ -1,0 +1,12 @@
+version: '3'
+services:
+  dbt-bq-dtc:
+    build:
+      context: .
+      target: dbt-bigquery
+    image: dbt/bigquery
+    volumes:
+      - .:/usr/app
+      - ~/.dbt/:/root/.dbt/
+      - /Users/Brian/.gcloud_keys/plexiform-guide-375316-876e79dd6cc1.json:/.google/credentials/google_credentials.json
+    network_mode: host
