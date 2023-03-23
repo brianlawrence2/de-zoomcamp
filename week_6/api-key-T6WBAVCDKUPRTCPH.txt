@@ -1,0 +1,10 @@
+=== Confluent Cloud API key: lkc-vrvr70 ===
+
+API key:
+T6WBAVCDKUPRTCPH
+
+API secret:
+Qb5PEU5CIE4iW/lgzoMcOG/07u9ZLrhZWCOTDnuauvmjif2erNg012c5Z0+l+Icu
+
+Bootstrap server:
+pkc-419q3.us-east4.gcp.confluent.cloud:9092
